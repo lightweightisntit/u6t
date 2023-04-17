@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h3{
+  color:blue;
+}
+p{
+  color:blue;
+}
+/* Place your work for Part 2 in the space below*/
+body{
+  background-color:deeppink;
+}
+img{
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+h1{
+    border-width: 5px;
+    border-color: pink;
+    border-style: solid;
+    display: inline-block;
+}
